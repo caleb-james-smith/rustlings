@@ -16,6 +16,8 @@
 // I AM NOT DONE
 
 fn main() {
+    println!("Bonjour et bienvenue!");
+    println!();
     println!("Hello and");
     println!(r#"       welcome to...                      "#);
     println!(r#"                 _   _ _                  "#);
