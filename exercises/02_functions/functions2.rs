@@ -1,12 +1,4 @@
-// functions2.rs
-//
-// Execute `rustlings hint functions2` or use the `hint` watch subcommand for a
-// hint.
-
-fn main() {
-    call_me(5);
-}
-
+// TODO: Add the missing type of the argument `num` after the colon `:`.
 fn call_me(num: i32) {
     for i in 0..num {
         println!("Ring! Call number {}", i + 1);
