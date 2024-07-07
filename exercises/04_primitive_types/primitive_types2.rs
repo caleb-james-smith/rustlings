@@ -1,4 +1,7 @@
-// Characters (`char`)
+// primitive_types2.rs
+//
+// Fill in the rest of the line that has code missing! No hints, there's no
+// tricks, just get used to typing these :)
 
 fn main() {
     // Note the _single_ quotes, these are different from the double quotes
@@ -16,8 +19,9 @@ fn main() {
     // below with your favorite character.
     // Try a letter, try a digit (in single quotes), try a special character, try a character
     // from a different language than your own, try an emoji 😉
-    // let your_character = '';
 
+    let your_character = '1'; // Finish this line like the example! What's your favorite character?
+    
     if your_character.is_alphabetic() {
         println!("Alphabetical!");
     } else if your_character.is_numeric() {
